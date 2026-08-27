@@ -8,6 +8,15 @@
       "hwid": null,
       "banned": false,
       "lastReset": "2026-08-27T15:52:36.288Z"
+    },
+    "981131780969082911": {
+      "username": "noh_yunah",
+      "keys": {
+        "daisy_exe": "SCRIPT-9E111BE2-E23"
+      },
+      "hwid": null,
+      "banned": false,
+      "lastReset": null
     }
   },
   "keys": {
@@ -15,6 +24,11 @@
       "script": "daisy_exe",
       "usedBy": "287033068357943297",
       "createdAt": "2026-08-27T15:47:29.846Z"
+    },
+    "SCRIPT-9E111BE2-E23": {
+      "script": "daisy_exe",
+      "usedBy": "981131780969082911",
+      "createdAt": "2026-08-27T16:05:31.230Z"
     }
   }
 }
