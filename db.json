@@ -1,1 +1,20 @@
-{}
+{
+  "users": {
+    "287033068357943297": {
+      "username": "religiousbinding",
+      "keys": {
+        "daisy_exe": "SCRIPT-03164648-6ED"
+      },
+      "hwid": null,
+      "banned": false,
+      "lastReset": null
+    }
+  },
+  "keys": {
+    "SCRIPT-03164648-6ED": {
+      "script": "daisy_exe",
+      "usedBy": "287033068357943297",
+      "createdAt": "2026-08-27T15:47:29.846Z"
+    }
+  }
+}
