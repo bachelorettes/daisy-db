@@ -29,9 +29,7 @@
     },
     "816708681679765504": {
       "username": "anq.h",
-      "keys": {
-        "daisy_exe": "SCRIPT-A19C89B7-A43"
-      },
+      "keys": {},
       "hwid": null,
       "banned": false,
       "lastReset": null
@@ -52,11 +50,6 @@
       "script": "daisy_exe",
       "usedBy": "1104041936593108993",
       "createdAt": "2026-08-27T16:06:41.342Z"
-    },
-    "SCRIPT-A19C89B7-A43": {
-      "script": "daisy_exe",
-      "usedBy": "816708681679765504",
-      "createdAt": "2026-08-27T18:16:38.653Z"
     }
   }
 }
