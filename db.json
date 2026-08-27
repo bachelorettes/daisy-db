@@ -3,7 +3,7 @@
     "287033068357943297": {
       "username": "religiousbinding",
       "keys": {
-        "daisy_exe": "SCRIPT-03164648-6ED"
+        "daisy_exe": "SCRIPT-99A6137D-ECF"
       },
       "hwid": null,
       "banned": false,
@@ -50,6 +50,11 @@
       "script": "daisy_exe",
       "usedBy": "1104041936593108993",
       "createdAt": "2026-08-27T16:06:41.342Z"
+    },
+    "SCRIPT-99A6137D-ECF": {
+      "script": "daisy_exe",
+      "usedBy": "287033068357943297",
+      "createdAt": "2026-08-27T18:24:09.633Z"
     }
   }
 }
