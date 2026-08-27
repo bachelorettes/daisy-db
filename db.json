@@ -17,6 +17,15 @@
       "hwid": null,
       "banned": false,
       "lastReset": null
+    },
+    "1104041936593108993": {
+      "username": "benjyr",
+      "keys": {
+        "daisy_exe": "SCRIPT-93F37D4A-4CE"
+      },
+      "hwid": null,
+      "banned": false,
+      "lastReset": null
     }
   },
   "keys": {
@@ -29,6 +38,11 @@
       "script": "daisy_exe",
       "usedBy": "981131780969082911",
       "createdAt": "2026-08-27T16:05:31.230Z"
+    },
+    "SCRIPT-93F37D4A-4CE": {
+      "script": "daisy_exe",
+      "usedBy": "1104041936593108993",
+      "createdAt": "2026-08-27T16:06:41.342Z"
     }
   }
 }
