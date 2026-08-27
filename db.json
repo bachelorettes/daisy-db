@@ -23,7 +23,16 @@
       "keys": {
         "daisy_exe": "SCRIPT-93F37D4A-4CE"
       },
-      "hwid": "E4F2916B-44AD-44A8-8C66-6DACFA63FA8F",
+      "hwid": null,
+      "banned": false,
+      "lastReset": null
+    },
+    "816708681679765504": {
+      "username": "anq.h",
+      "keys": {
+        "daisy_exe": "SCRIPT-A19C89B7-A43"
+      },
+      "hwid": null,
       "banned": false,
       "lastReset": null
     }
@@ -43,6 +52,11 @@
       "script": "daisy_exe",
       "usedBy": "1104041936593108993",
       "createdAt": "2026-08-27T16:06:41.342Z"
+    },
+    "SCRIPT-A19C89B7-A43": {
+      "script": "daisy_exe",
+      "usedBy": "816708681679765504",
+      "createdAt": "2026-08-27T18:16:38.653Z"
     }
   }
 }
