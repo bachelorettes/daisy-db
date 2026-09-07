@@ -33,6 +33,15 @@
       "hwid": null,
       "banned": false,
       "lastReset": null
+    },
+    "864802449499881472": {
+      "username": "reclaimmee",
+      "keys": {
+        "daisy_exe": "SCRIPT-F742DFDB-121"
+      },
+      "hwid": null,
+      "banned": false,
+      "lastReset": null
     }
   },
   "keys": {
@@ -55,6 +64,11 @@
       "script": "daisy_exe",
       "usedBy": "287033068357943297",
       "createdAt": "2026-08-27T18:24:09.633Z"
+    },
+    "SCRIPT-F742DFDB-121": {
+      "script": "daisy_exe",
+      "usedBy": "864802449499881472",
+      "createdAt": "2026-09-07T12:59:12.441Z"
     }
   }
 }
